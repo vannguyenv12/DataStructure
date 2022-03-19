@@ -1,9 +1,9 @@
-# Class Node
+# I. Class Node
 
 - value
 - next
 
-# Class linkedList
+# II. Class linkedList
 
 ## head
 
@@ -11,7 +11,7 @@
 
 ## length
 
-# Method
+# III. Method
 
 ##### push -> add node into the end of linked list
 
@@ -27,7 +27,7 @@
 
 ## remove -> take index and remove node
 
-# Break it out
+# IV. Break it out
 
 ## Push
 
