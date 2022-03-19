@@ -11,7 +11,9 @@
 ### Cover các thuật toán:
 - Binary Search
 - Bubble Sort
+- Selection Sort
 - Insertion Sort
 - Merge Sort
 - Quick Sort
-- Selection Sort
+
+### Mỗi cấu trúc dữ liệu và giải thuật đều có các bước làm, break it out
