@@ -1,9 +1,9 @@
-# class Node
+# Class Node
 
 - value
 - next
 
-# class linkedList
+# Class linkedList
 
 - head
 - tail
