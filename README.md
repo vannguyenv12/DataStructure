@@ -16,6 +16,6 @@
 - Merge Sort
 - Quick Sort
 
-### Mỗi cấu trúc dữ liệu và giải thuật đều có các bước làm, break it out
+### Mỗi cấu trúc dữ liệu đều có các bước làm, break it out. Còn giải thuật thì tự ngâm cứu nhé =))
 
 #### Note: Vì là một con người, nên có thể có sai sót và chưa được tối ưu.
