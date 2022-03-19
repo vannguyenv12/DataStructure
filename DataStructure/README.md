@@ -25,7 +25,7 @@
 
 ##### insert -> take index and value, and insert to linked list
 
-## remove -> take index, and return node removed
+## remove -> take index and remove node
 
 # Break it out
 
