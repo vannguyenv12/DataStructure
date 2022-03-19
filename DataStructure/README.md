@@ -13,17 +13,17 @@
 
 # Method
 
-## push -> add node into the end of linked list
+##### push -> add node into the end of linked list
 
-## pop -> remove node the end of linked list
+##### pop -> remove node the end of linked list
 
-## shift -> remove node the top of linked list
+##### shift -> remove node the top of linked list
 
-## unshift -> add node into the top of linked list
+##### unshift -> add node into the top of linked list
 
-## get -> take index and return node
+##### get -> take index and return node
 
-## insert -> take index and value, and insert to linked list
+##### insert -> take index and value, and insert to linked list
 
 ## remove -> take index, and return node removed
 
