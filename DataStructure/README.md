@@ -5,11 +5,9 @@
 
 # II. Class linkedList
 
-## head
-
-## tail
-
-## length
+- head
+- tail
+- length
 
 # III. Method
 
