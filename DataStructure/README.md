@@ -5,11 +5,9 @@
 
 # II. Class linkedList
 
-## head
-
-## tail
-
-## length
+- head
+- tail
+- length
 
 # III. Method
 
@@ -25,7 +23,7 @@
 
 ##### insert -> take index and value, and insert to linked list
 
-## remove -> take index and remove node
+#### remove -> take index and remove node
 
 # IV. Break it out
 
