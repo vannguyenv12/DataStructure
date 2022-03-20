@@ -1,5 +1,5 @@
 class hashTable {
-  constructor(size = 20) {
+  constructor(size = 15) {
     this.keyMap = new Array(size);
   }
 
