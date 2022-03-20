@@ -6,6 +6,7 @@
 - Queue
 - Binary Search Tree
 - Tree Traversal
+- Hash table
 
 # II. Giải thuật
 ### Cover các thuật toán:
