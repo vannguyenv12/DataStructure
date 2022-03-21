@@ -22,6 +22,8 @@ function merge(arr1, arr2) {
   return results;
 }
 
+// console.log(merge([1, 10, 50], [2, 14, 100, 99]));
+
 function mergeSort(arr) {
   if (arr.length <= 1) return arr;
   let mid = Math.floor(arr.length / 2);

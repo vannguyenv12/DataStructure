@@ -12,15 +12,3 @@ function insertionSort(arr) {
 }
 
 console.log(insertionSort([2, 1, 5, 3]));
-
-// curr: 1
-// arr[j + 1] = arr[j] -> 2 > 1 -> YES -> [2,2]
-// arr[j] = currenVal -> [1,2]
-
-// curr: 5
-// 1 > 5 -> NOT
-// end loop
-
-// curr: 3
-// 5 > 3 ? YES -> [1,2,5,5]
-// [1,2,3,3]
