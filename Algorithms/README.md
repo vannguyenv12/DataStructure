@@ -3,7 +3,7 @@
 ## 2. Câu chuyện về Martin & Dragon
 
 Ở thời đại này, bằng một lý do nào đó mà con người không hề biết về những con số.
-Nơi đây có một cậu bé tên là Martin đang tập luyện để trở thành một phù thủy
+Nơi đây có một cậu bé tên là Martin đang tập luyện để trở thành một phù thủy.
 Vào một ngày đẹp trời. Đại Phù Thủy giao cho Martin một nhiệm vụ. Nếu hoàn thành, cậu bé sẽ được thăng chức thành Tân Phù Thủy !!
 
 - Ta cần con đến gặp và nói chuyện với Mr. Dragon, hỏi nó xem trong danh sách các số dưới đây, đâu là số lẻ?
