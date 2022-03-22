@@ -15,7 +15,7 @@ Martin nhận nhiệm vụ và đến gặp Dragon
 - Dragon: "Hey boy, ta sẽ nói cho mi biết nếu số đầu tiên là số lẻ"
 
 - Martin buồn bã: "Nhưng tôi cần biết trong list này đâu là số lẻ mà :(("
-- Dragon gận dữ đáp: "Ta sẽ cho mi biết, nhưng chỉ khi nào số đầu tiên là số lẻ thôi nhóc"
+- Dragon giận dữ đáp: "Ta sẽ cho mi biết, nhưng chỉ khi nào số đầu tiên là số lẻ thôi nhóc"
 
 🤔🤔🤔🤔🤔
 🤔🤔🤔🤔🤔
