@@ -10,7 +10,9 @@ function binarySearch(arr, value) {
     middle = Math.ceil((left + right) / 2);
   }
 
-  return middle;
+  if (value === arr[middle]) return middle;
+
+  return -1;
 }
 
 //                          l   m  r
