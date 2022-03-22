@@ -24,7 +24,7 @@ Martin bắt đầu tìm cách...
 Oke được rồi. Tôi sẽ chiều theo ý ông, Dragon ạ.
 Martin tìm đến Mr. Dragon
 
-- Martin: "(3142 5798 6550 5914) Số đầu tiền trong này là số lẻ đúng chứ?"
+- Martin: "(3142 5798 6550 5914) Số đầu tiên trong này là số lẻ đúng chứ?"
 - Dragon: "Không!"
 - Martin: "(5798 6550 5914) Số đầu tiền trong này là số lẻ đúng chứ?"
 - Dragon: "Không!"
