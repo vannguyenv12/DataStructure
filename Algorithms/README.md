@@ -1,6 +1,6 @@
 # I. First, Story time
 
-## 2. Câu chuyện về Martin & Dragon
+## 1. Câu chuyện về Martin & Dragon
 
 Ở thời đại này, bằng một lý do nào đó mà con người không hề biết về những con số.
 Nơi đây có một cậu bé tên là Martin đang tập luyện để trở thành một phù thủy.
